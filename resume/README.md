@@ -1,8 +1,8 @@
 
 #Niel Duquesne|
-Berkenlaan 4 1740 ternat|
-<p>Geboren te: Asse</p><br>
-<p>15 mei 1995</p><br>
+*Berkenlaan 4 1740 ternat|
+*Geboren te: Asse</p><br>
+*15 mei 1995</p><br>
 <p>man</p><br>
 <p>Belg</p><br>
 <p>Student</p><br>
@@ -31,7 +31,7 @@ Berkenlaan 4 1740 ternat|
 <br>
 <br>
 
-<h1>Werkervaringen</h1>
+#Werkervaringen
 <ul>
 <li><p>Vemoflex Asse-Molem / 2 maanden</p></li>
 <li><p>Groendienst ternat / 2 weken</p></li>
@@ -41,26 +41,26 @@ Berkenlaan 4 1740 ternat|
 <br>
 <br>
 
-<h1>Computerkennis</h1>
-<h2>Software</h2>
+#Computerkennis
+##Software
 
 <p>Word</p>
 <p>Photoshop</p>
 <p>Illustrator</p>
 <p>Indesign</p>
 
-<h2>Programmeertalen</h2>
+##Programmeertalen
 <p>Basis javascript</p>
 <p>Basis Jquery</p>
 <p>Basis command line</p>
 <hr>
-<h1>Talenkennis</h1>
+#Talenkennis
 
 <p>Nederlands – moedertaal</p>
 <p>Frans – basiskennis</p>
 <p>Engels - vlot</p>
 
-<h1>Overige<h1/>
+#Overige
 <p>Reizen</p>
 <p>Sportief</p>
 <p>Films</p>
