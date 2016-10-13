@@ -1,6 +1,6 @@
 
-<h1>Niel Duquesne</h1><br>
-<p>Berkenlaan 4 1740 ternat</p><br>
+#Niel Duquesne|
+Berkenlaan 4 1740 ternat|
 <p>Geboren te: Asse</p><br>
 <p>15 mei 1995</p><br>
 <p>man</p><br>
@@ -13,7 +13,7 @@
 <br>
 <br>
 
-<h1>Opleidingen</h1>
+# Opleidingen
 
 <ul>
 <li><p>Basisschool, De brug – Ternat  1998 - 2006</p></li>
